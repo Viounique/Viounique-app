@@ -1,7 +1,6 @@
 # Assistance application for Disasters
 During urgent events, information is often scattered and not updated quickly. This can cause duplicate reports and delays, making it harder for rescue teams to help people who need urgent assistance.
-## About The Project
-During disasters and emergencies, information is often scattered and outdated, leading to duplicate reports and rescue delays. This platform provides a centralized emergency reporting and crisis coordination system.
+
 
 ## Key Features
 - **Victim Request Logging & Offline Sync:** Log distress requests with GPS coordinates and store data locally to automatically sync once the internet connection is restored.
