@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>DisasterApp – Phone Prototype</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="stylesheet" href="css/style.css">
+</head><body>
+<div class="cap">.NET MAUI app · 360 × 740 dp phone frame · tap everything — it all works</div>
+<div class="phone">
+ <div class="sb"><span>9:41</span><span>▲ ◉ ▮▮▮</span></div>
+ <div class="hd"><label class="net on" id="net" data-a="net"><span id="nl">Online</span><span class="sw"></span></label>
+  <h1>🆘 Disaster Assist</h1><p>Report an emergency · track rescue</p>
+  <div class="seg"><button class="on" data-a="tv">Victim</button><button data-a="tc">Coordinator</button></div></div>
+ <div class="pg" id="vv">
+  <div class="card"><div class="lbl">Who needs help</div><input id="nm" placeholder="Name"><input id="ph" placeholder="Phone" type="tel" style="margin:0"></div>
+  <div class="card"><div class="lbl">Emergency type</div><div class="chips" id="types"></div></div>
+  <div class="card"><div class="lbl">Number of people</div><div class="stp"><button data-a="minus">−</button><b id="n">1</b><button data-a="plus">+</button></div>
+   <div class="lbl" style="margin-top:12px">Special care</div><div class="chips" id="care"></div></div>
+  <div class="card gps" data-a="gps"><div class="pin" id="pin">📍</div><div><b id="gt">Tap to capture GPS</b><div class="sub" id="gs">Required so rescuers can find you</div></div></div>
+  <button class="big" data-a="send">SEND REQUEST</button><div class="msg" id="ms"></div>
+ </div>
+ <div class="pg hide" id="cv">
+  <div class="stats" id="stats"></div>
+  <div class="card" style="padding:8px"><svg class="map" viewBox="0 0 100 56" id="map"></svg></div>
+  <div id="ls" style="display:flex;flex-direction:column;gap:10px"></div>
+ </div>
+ <div class="nav"><i></i></div>
+ <div id="sh" class="sheet hide" data-a="close"><div id="shb"></div></div>
+ <div id="toast" class="toast hide"></div>
+</div>
+<script src="js/core.js"></script>
+<script src="js/scoring.js"></script>
+<script src="js/victim.js"></script>
+<script src="js/sync.js"></script>
+<script src="js/coordinator.js"></script>
+<script src="js/cases.js"></script>
+<script src="js/main.js"></script>
+</body></html>
