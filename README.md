@@ -8,17 +8,17 @@ During urgent events, information is often scattered and not updated quickly. Th
 <img width="1323" height="925" alt="image" src="https://github.com/user-attachments/assets/e84f8cd7-24ab-420e-9f3a-fbf36958f2ca" />
 Important use cases include:
 
-Log distress request 
-Report accident 
-Sync offline data 
-Receive notifications 
-View and filter the live map 
-Calculate priority 
-Classify emergency types 
-Contact victims 
-Allocate rescue resources 
-Generate reports 
-Respond to emergencies 
+Log distress request ,
+Report accident, 
+Sync offline data, 
+Receive notifications ,
+View and filter the live map, 
+Calculate priority ,
+Classify emergency types ,
+Contact victims ,
+Allocate rescue resources ,
+Generate reports ,
+Respond to emergencies.
 
 
 ### Core Entities (Class Diagram)
