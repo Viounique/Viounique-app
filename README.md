@@ -20,7 +20,7 @@ Delays caused by manual coordination result in the loss of the critical "Golden 
 
 ### Use-Case Diagram
 <img width="1323" height="925" alt="image" src="https://github.com/user-attachments/assets/e84f8cd7-24ab-420e-9f3a-fbf36958f2ca" />
-Important use cases include:
+** Important use cases include: **
 
 Log distress request ,
 Report accident, 
@@ -69,11 +69,21 @@ Allows coordinators to call victims directly from the dashboard and manage the c
   * **System Logic:** One-click dialer integration and real-time status updates within 10 seconds
 
 ## Non-Functional Requirements
-### Map should load within 5 seconds on standard 4G.
-### Status notifications should arrive within 30 seconds.
-### A first-time victim should be able to submit a request within 45 seconds.
-### Offline data must not be lost if the app crashes or the phone restarts.
-### Coordinators can only access requests from their authorized sector.
+Map should load within 5 seconds on standard 4G.
+
+
+Status notifications should arrive within 30 seconds.
+
+
+A first-time victim should be able to submit a request within 45 seconds.
+
+
+Offline data must not be lost if the app crashes or the phone restarts.
+
+
+Coordinators can only access requests from their authorized sector.
+
+
 
 ## System Scope Control & MVP Boundaries
 <img width="727" height="297" alt="image" src="https://github.com/user-attachments/assets/71a9c3cf-000c-444c-b20c-b14833782b77" />
@@ -93,8 +103,14 @@ Allows coordinators to call victims directly from the dashboard and manage the c
 
 ## Team 
 6931503047 Nattapron Aromoon
+
+
 6931503016  SHINN SHINN THET
+
+
 6931503011  LYNN LYNN THET
+
+
 
 
 
