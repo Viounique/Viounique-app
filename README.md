@@ -59,8 +59,8 @@ Respond to emergencies.
 - **FR-2: Offline Capture & Automatic Sync:** Saves requests directly to the device when offline and automatically synchronizes them within 60 seconds once connectivity is restored
 - **FR-3: Coordinator Live Map with Filters:** Provides rescue coordinators a real-time spatial map to visualize distress pins and filter cases dynamically by priority, type, and status
 - **FR-4: Rule-Based Priority Scoring:** Automatically assigns Red, Yellow, or Green priority queues based on fixed safety rules to ensure life-threatening cases sit at the top
-- ***FR-5: Contact Victim & Case Status:** Allows coordinators to call victims directly from the dashboard and manage the case status lifecycle
-* **Case Status Flow:**`Submitted` $\rightarrow$ `Verified` $\rightarrow$ `Dispatched` $\rightarrow$ `Rescued` (Side Exits: `Unreachable`, `Canceled`)
+- **FR-5: Contact Victim & Case Status:** Allows coordinators to call victims directly from the dashboard and manage the case status lifecycle
+  * **Case Status Flow:**`Submitted` $\rightarrow$ `Verified` $\rightarrow$ `Dispatched` $\rightarrow$ `Rescued` (Side Exits: `Unreachable`, `Canceled`)
   * **System Logic:** One-click dialer integration and real-time status updates within 10 seconds
 
 ## Non-Functional Requirements
