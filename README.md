@@ -19,7 +19,7 @@ Contact victims
 Allocate rescue resources 
 Generate reports 
 Respond to emergencies 
-<img width="751" height="620" alt="image" src="https://github.com/user-attachments/assets/1def5511-5e76-4bd0-96fe-a654d88b4f3f" />
+
 
 ### Core Entities (Class Diagram)
 <img width="1458" height="888" alt="image" src="https://github.com/user-attachments/assets/9736a29d-f12b-48f0-bd9b-d3ae1c571cad" />
@@ -40,6 +40,7 @@ Respond to emergencies
   ## Screenshots / Demo
  ### Victim Distress Logging UI
 <img width="576" height="270" alt="image" src="https://github.com/user-attachments/assets/148b4b5a-38c5-4fa1-b769-0f70ada3f47a" />
+
 ### Coordinator Distress Logging UI
 <img width="571" height="270" alt="image" src="https://github.com/user-attachments/assets/e8e2222b-d420-4d2a-ad64-8645aab9c230" />
 
