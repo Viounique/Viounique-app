@@ -1,4 +1,4 @@
-name: Run Tests Automatically
+name: Run Real Tests
 
 on:
   push:
@@ -11,5 +11,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Run test check
-        run: echo "All automated tests passed successfully!"
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run test suite
+        run: npm test
