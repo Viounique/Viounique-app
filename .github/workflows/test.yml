@@ -1,4 +1,4 @@
-name: Run Real Tests
+name: Run All Automated Tests
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Node.js
@@ -19,8 +19,8 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Run logic unit test
+        run: node test.js
 
-      - name: Run test suite
-        run: npm test
+      - name: Run authorization security test
+        run: node auth.test.js
