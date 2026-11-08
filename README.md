@@ -1,4 +1,3 @@
-<img width="1228" height="80" alt="image" src="https://github.com/user-attachments/assets/bd1192e7-41f3-4799-94ad-e0dd2f4d3015" /># Live Prototype
 Click the link below to open our prototype
 (https://viounique-prototype.onrender.com)
 
@@ -102,9 +101,9 @@ Coordinators can only access requests from their authorized sector.
 
 
 ## AI usege log
-- The team used Gemini to research flooding problems in Southeast Asia. The AI output was then edited and converted into specific software problems and requirements rather than being used directly.
-- The team use Chat GPT to summarize the information and review our project.
-- The team use Claude to review our code and prototype and receive suggestion .
+- The team used **Gemini** to research flooding problems in Southeast Asia. The AI output was then edited and converted into specific software problems and requirements rather than being used directly.
+- The team use **Chat GPT** to summarize the information and review our project.
+- The team use **Claude** to review our code and prototype and receive suggestion .
 
 
 
