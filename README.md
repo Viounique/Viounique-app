@@ -1,4 +1,4 @@
-# Live Prototype
+<img width="1228" height="80" alt="image" src="https://github.com/user-attachments/assets/bd1192e7-41f3-4799-94ad-e0dd2f4d3015" /># Live Prototype
 Click the link below to open our prototype
 (https://viounique-prototype.onrender.com)
 
@@ -95,12 +95,22 @@ Coordinators can only access requests from their authorized sector.
 
   ## Screenshots / Demo
  ### Victim Distress Logging UI
-<img width="576" height="270" alt="image" src="https://github.com/user-attachments/assets/148b4b5a-38c5-4fa1-b769-0f70ada3f47a" />
+<img width="1173" height="552" alt="image" src="https://github.com/user-attachments/assets/58c1fd09-bb49-43f4-9d9a-d71b80c51ea6" />
 
 ### Coordinator Distress Logging UI
-<img width="571" height="270" alt="image" src="https://github.com/user-attachments/assets/e8e2222b-d420-4d2a-ad64-8645aab9c230" />
+<img width="1190" height="557" alt="image" src="https://github.com/user-attachments/assets/2e4e0099-a76e-42a0-b8c9-246d0c917a53" />
 
-## Team 
+
+## AI usege log
+- The team used Gemini to research flooding problems in Southeast Asia. The AI output was then edited and converted into specific software problems and requirements rather than being used directly.
+- The team use Chat GPT to summarize the information and review our project.
+- The team use Claude to review our code and prototype and receive suggestion .
+
+
+
+
+
+## Team member
 **6931503047 Nattapron Aromoon**
 
 
